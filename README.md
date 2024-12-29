@@ -1,5 +1,5 @@
 ## Olá, me chamo Khaléu 😎😉
-<table>
+<table align="center">
   <tr>
     <td>
       - 🔭 Desenvolvo aplicações backend<br>
@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-<div>
+<div align="center">
   <a href="https://github.com/khaleusanches/khaleusanches">
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=khaleusanches&show_icons=true&theme=onedark">
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaleusanches&layout=donut&theme=onedark">
