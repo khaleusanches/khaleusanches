@@ -5,6 +5,7 @@
       - 🔭 Desenvolvo aplicações backend<br>
       - 🌱 Estudando .NET<br>
       - 💬 Tenho 18 anos.<br>
+      - 📖 Cursando Tecnologo em Desenvolvimento de Software
       - ⚡ Técnico em Desenvolvimento de Sistemas <br>
       - ⚡ Técnico em Informática<br>
       - 📫 Me mande um email: khaleusanches@gmail.com<br>
